@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@emotion/core": "10.0.14",
+    "antd": "latest",
+    "chroma-js": "2.0.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-select": "3.0.4"
+  },
+  "keywords": [],
+  "name": "themeselector",
+  "description": null,
+  "version": "0.0.228",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

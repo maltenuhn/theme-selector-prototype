@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/core": "10.0.14",
+    "antd": "latest",
+    "chroma-js": "2.0.4",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-select": "3.0.4"
+  },
+  "keywords": [],
+  "name": "themeselector",
+  "description": ""
+}
